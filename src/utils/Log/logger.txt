@@ -1,0 +1,362 @@
+=== Error Logger File ====
+
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-14 _ 18:57:08.791) ....
+Type - > TypeError
+Error_message - > UserService.regist is not a function
+Steck file - > /Najot%20talim/full-stak/45%20dars/src/controller/User.controller.js
+Line -> 9
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-14 _ 19:06:47.045) ....
+Type - > TypeError
+Error_message - > UserService.regist is not a function
+Steck file - > /Najot%20talim/full-stak/45%20dars/src/controller/User.controller.js
+Line -> 9
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-14 _ 19:10:48.484) ....
+Type - > MongoServerError
+Error_message - > E11000 duplicate key error collection: youtube.users index: username_1 dup key: { username: "Sami" }
+Steck file - > \Najot talim\full-stak\45 dars\node_modules\mongodb\lib\operations\insert.js
+Line -> 51
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-14 _ 19:12:16.016) ....
+Type - > MongoServerError
+Error_message - > E11000 duplicate key error collection: youtube.users index: username_1 dup key: { username: "Ali" }
+Steck file - > \Najot talim\full-stak\45 dars\node_modules\mongodb\lib\operations\insert.js
+Line -> 51
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-14 _ 19:15:09.473) ....
+Type - > MongoServerError
+Error_message - > E11000 duplicate key error collection: youtube.users index: username_1 dup key: { username: "Alisher" }
+Steck file - > \Najot talim\full-stak\45 dars\node_modules\mongodb\lib\operations\insert.js
+Line -> 51
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-14 _ 19:44:23.832) ....
+Type - > Error
+Error_message - > Malformed part header
+Steck file - > \Najot talim\full-stak\45 dars\node_modules\busboy\lib\types\multipart.js
+Line -> 398
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-14 _ 19:53:49.059) ....
+Type - > Error
+Error_message - > "username" is required
+Steck file - > /Najot%20talim/full-stak/45%20dars/src/middleware/validation.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/file
+time -> ( 2025-05-14 _ 20:02:53.569) ....
+Type - > TypeError
+Error_message - > UserController.postFile is not a function
+Steck file - > /Najot%20talim/full-stak/45%20dars/src/controller/User.controller.js
+Line -> 40
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6824f81297ca1a6716a32dc5
+time -> ( 2025-05-15 _ 08:32:23.257) ....
+Type - > Error
+Error_message - > File not deleted !
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 105
+END !!!
+____________________________________________________________________________________________________ 
+Method - > PUT
+Url -> /api/file
+time -> ( 2025-05-15 _ 08:43:39.137) ....
+Type - > ReferenceError
+Error_message - > Cannot access 'data' before initialization
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 114
+END !!!
+____________________________________________________________________________________________________ 
+Method - > PUT
+Url -> /api/file
+time -> ( 2025-05-15 _ 08:52:37.381) ....
+Type - > Error
+Error_message - > Invalid atomic update value for $set. Expected an object, received string
+Steck file - > \Najot talim\full-stak\46 dars\node_modules\mongoose\lib\helpers\query\castUpdate.js
+Line -> 148
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/login
+time -> ( 2025-05-15 _ 18:05:51.121) ....
+Type - > TypeError
+Error_message - > Cannot read properties of undefined (reading 'username')
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 60
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:09:32.597) ....
+Type - > Error
+Error_message - > File not deleted !
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 122
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:10:29.815) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:10:33.680) ....
+Type - > Error
+Error_message - > File not deleted !
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 122
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:10:36.928) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:11:38.893) ....
+Type - > Error
+Error_message - > File not deleted !
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 122
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:12:16.182) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:12:19.041) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:12:47.242) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:12:55.907) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:13:30.712) ....
+Type - > Error
+Error_message - > File not deleted !
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 122
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:13:48.713) ....
+Type - > Error
+Error_message - > File not deleted !
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/service/User.service.js
+Line -> 122
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:14:39.098) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:15:53.615) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:16:17.509) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:16:43.820) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:16:45.079) ....
+Type - > Error
+Error_message - > Invalid token
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 20
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:19:02.181) ....
+Type - > Error
+Error_message - > Token expire
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 18
+END !!!
+____________________________________________________________________________________________________ 
+Method - > DELETE
+Url -> /api/file/6825a91fdf3104ed72db2a6c
+time -> ( 2025-05-15 _ 18:31:16.377) ....
+Type - > Error
+Error_message - > Token expire
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 18
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-15 _ 18:31:27.969) ....
+Type - > Error
+Error_message - > token is required
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 8
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/login
+time -> ( 2025-05-15 _ 18:32:39.738) ....
+Type - > Error
+Error_message - > token is required
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 8
+END !!!
+____________________________________________________________________________________________________ 
+Method - > PUT
+Url -> /api/file
+time -> ( 2025-05-15 _ 18:35:52.479) ....
+Type - > Error
+Error_message - > token is required
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 8
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/file
+time -> ( 2025-05-15 _ 18:35:58.347) ....
+Type - > Error
+Error_message - > token is required
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 8
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/file
+time -> ( 2025-05-15 _ 18:36:18.589) ....
+Type - > Error
+Error_message - > Token expire
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 18
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/file
+time -> ( 2025-05-15 _ 18:37:55.052) ....
+Type - > Error
+Error_message - > Token expire
+Steck file - > /Najot%20talim/full-stak/46%20dars/src/middleware/checkToken.js
+Line -> 18
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/file
+time -> ( 2025-05-15 _ 20:08:11.785) ....
+Type - > Error
+Error_message - > Token expire
+Steck file - > /Najot%20talim/full-stak/47%20dars/src/middleware/checkToken.js
+Line -> 19
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/file
+time -> ( 2025-05-15 _ 20:08:47.721) ....
+Type - > TypeError
+Error_message - > Cannot destructure property 'username' of 'console.log(...)' as it is undefined.
+Steck file - > /Najot%20talim/full-stak/47%20dars/src/middleware/checkToken.js
+Line -> 10
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register
+time -> ( 2025-05-20 _ 08:26:03.216) ....
+Type - > TypeError
+Error_message - > Cannot read properties of undefined (reading 'img')
+Steck file - > /Users/Umidjon%20Najot/Desktop/44-45-46-47%20dars%20youtube-backend/src/controller/User.controller.js
+Line -> 43
+END !!!
+____________________________________________________________________________________________________ 
+Method - > POST
+Url -> /api/register?img
+time -> ( 2025-05-20 _ 08:28:15.092) ....
+Type - > TypeError
+Error_message - > Cannot read properties of undefined (reading 'password')
+Steck file - > /Users/Umidjon%20Najot/Desktop/44-45-46-47%20dars%20youtube-backend/src/service/User.service.js
+Line -> 40
+END !!!
+____________________________________________________________________________________________________ 
