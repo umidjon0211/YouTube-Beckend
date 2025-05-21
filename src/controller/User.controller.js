@@ -4,6 +4,14 @@ import { UserService } from "../service/User.service.js"
 class UserController {
     constructor () {}
 
+    async salomlash (req, rres, next){
+        try{
+            let {name} = req.parm
+        }catch(error){
+            next(error)
+        }
+    }
+s
 
     async getAllFiles (req, res, next) {
         try {
@@ -113,6 +121,7 @@ class UserController {
         }
     }
 
+    
 
 
 }

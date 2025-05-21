@@ -6,6 +6,7 @@ import checkToken from "../middleware/checkToken.js"
 const router = Router()
 
 router
+    .get('/',controller.salomlash)
     .get('/files/all', controller.getAllFiles)
     .get('/files/single/:userId', controller.getSingleFiles)
     .get('/files/search', controller.SearchFile)
